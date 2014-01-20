@@ -27,7 +27,7 @@ From PyPi (easier!)
 
 ::
 
-    # Install dependancies
+    # Install dependencies
     sudo apt-get install youtube-dl
     # Ensure using latest version of youtube-dl to keep up with YouTube API changes
     sudo youtube-dl -U
@@ -41,7 +41,7 @@ From GitHub
 
 ::
 
-    # Install dependancies
+    # Install dependencies
     sudo apt-get install youtube-dl
     # Ensure using latest version of youtube-dl to keep up with YouTube API changes
     sudo youtube-dl -U
